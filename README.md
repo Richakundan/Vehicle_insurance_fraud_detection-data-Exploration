@@ -1,0 +1,2 @@
+# Vehicle_insurance_fraud_detection-data-Exploration
+Vehicle_insurance_fraud_detection data exploration and analysis using SQL server management studio
